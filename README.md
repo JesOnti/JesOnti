@@ -6,7 +6,7 @@ and dedicated to continuous improvement. I will use this platform to share my ex
 - 👀 I’m interested in learning new coding skills and being creative about any problem that can occur.
 - 🌱 I’m currently learning how to use REACT to have fun creating web pages.
 - 📫 How to reach me jesramonti8@gmail.com
-- ⚡ Fun fact: 
+
 
 <!---
 JesOnti/JesOnti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
